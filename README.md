@@ -21,9 +21,9 @@ I’m a 2nd-year student pursuing a Bachelors’s in Computer science studies, f
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://www.instagram.com/sinha_anshu_/" target="blank"><img align="center" src="<img src="https://img.icons8.com/cute-clipart/50/000000/instagram-new.png"/>" alt="sinha_anshu_" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
+<a href="https://github.com/anshusinha872" target="blank"><img align="center" src="https://img.icons8.com/ios-glyphs/30/000000/instagram-new.png" alt="anshusinha" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/anshu-abhishek-3b8195200/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="Anshu Abhishek" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.hackerrank.com/anshusinha872" target="blank"><img align="center" src="<img src="https://img.icons8.com/windows/32/000000/hackerrank.png"/>" alt="anshusinhaa872" height="50" width="50" /></a>
+<a href="https://www.hackerrank.com/anshusinha872" target="blank"><img align="center" src="https://img.icons8.com/windows/32/000000/hackerrank.png" alt="anshu" height="50" width="50" /></a>
 </p>
 
 <hr>
