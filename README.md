@@ -13,7 +13,7 @@ I’m a 2nd-year student pursuing a Bachelors’s in Computer science studies, f
 </p>
 <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=anshusinha872&count_private=true&theme=radical&show_icons=true" />
 
-<p align="left"> <a href="https://twitter.com/ishikakesarwan4" target="blank"><img src="https://img.shields.io/github/followers/anshusinha872?style=social" alt="Anshu Sinha" /></a> </p>
+<p align="left"> <a href="https://github.com/anshusinha872" target="blank"><img src="https://img.shields.io/github/followers/anshusinha872?style=social" alt="Anshu Sinha" /></a> </p>
 
 - 📫 How to reach me **anshusinha872@gmail.com**
 <br><br>
