@@ -1,24 +1,33 @@
-<h1 align="center">Hi 👋, I'm Anshu</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" />, I'm Anshu Abhishek</h1>
+<h5 align="center">
+I’m a 2nd-year student pursuing a Bachelors’s in Computer science studies, from Chandigarh University. I am a Data Science enthusiast, web developer, and Photographer. 
+</h5>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshusinha872&label=Profile%20views&color=0e75b6&style=flat" alt="anshusinha872" /> </p>
+<p>
+<a align= "center" href="https://github.com/anshusinha872">
+<img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=anshusinha872&theme=radical">
+<img align="right" height="350" width="400" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> </a>
+</p>
+<img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=anshusinha872&count_private=true&theme=radical&show_icons=true" />
 
-- 🔭 I’m currently working on **Web development**
-
-- 🌱 I’m currently learning **Javascript**
+<p align="left"> <a href="https://twitter.com/ishikakesarwan4" target="blank"><img src="https://img.shields.io/github/followers/anshusinha872?style=social" alt="Anshu Sinha" /></a> </p>
 
 - 📫 How to reach me **anshusinha872@gmail.com**
+<br><br>
+<hr>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/anshusinha872" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="anshusinha872" height="30" width="40" /></a>
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://www.instagram.com/sinha_anshu_/" target="blank"><img align="center" src="<img src="https://img.icons8.com/cute-clipart/50/000000/instagram-new.png"/>" alt="sinha_anshu_" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/anshu-abhishek-3b8195200/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="Anshu Abhishek" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.hackerrank.com/anshusinha872" target="blank"><img align="center" src="<img src="https://img.icons8.com/windows/32/000000/hackerrank.png"/>" alt="anshusinhaa872" height="50" width="50" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
+<hr>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anshusinha872&show_icons=true&locale=en&layout=compact" alt="anshusinha872" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anshusinha872&show_icons=true&locale=en" alt="anshusinha872" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anshusinha872&" alt="anshusinha872" /></p>
+<p align="center">
+  <img src="https://github.com/anshusinha872/raw/blob/main/github-user-contribution.svg" alt="snake"></center>
+</p>
