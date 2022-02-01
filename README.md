@@ -29,5 +29,5 @@ I’m a 2nd-year student pursuing a Bachelors’s in Computer science studies, f
 <hr>
 
 <p align="center">
-  <img src="https://github.com/anshusinha872/raw/blob/main/github-user-contribution (1).svg" alt="snake"></center>
+  <img src="https://raw.githubusercontent.com/anshusinha872/raw/cbdc8188cce48ba8a12f4d9e37e6892e332a0539/github-user-contribution.svg" alt="snake"></center>
 </p>
