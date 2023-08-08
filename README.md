@@ -1,9 +1,9 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
-         width="45" />, I'm Anshu Abhishek</h1>
+         width="45" />, I'm Sonam</h1>
 <h5 align="center">
-I’m a 2nd-year student pursuing a Bachelors’s in Computer science studies, from Chandigarh University. I am a Data Science enthusiast, web developer, and Photographer. 
+I’m a 4th-year student pursuing a Bachelors’s in Computer science studies, from . I am a Data Science enthusiast, web developer, and Photographer. 
 </h5>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshusinha872&label=Profile%20views&color=0e75b6&style=flat" alt="anshusinha872" /> </p>
 <p>
