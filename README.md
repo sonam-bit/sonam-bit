@@ -3,7 +3,7 @@
          height="45"
          width="45" />, I'm Sonam</h1>
 <h5 align="center">
-I’m a 4th-year student pursuing a Bachelors’s in Computer science studies, from . I am a Data Science enthusiast, web developer, and Photographer. 
+I’m a 4th-year student pursuing a Bachelors’s in Computer science, from Birla Institute of Technology, Mesra (Patna). 
 </h5>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonam-bit&label=Profile%20views&color=0e75b6&style=flat" alt="sonam25ranchi" /> </p>
 <p>
@@ -22,8 +22,8 @@ I’m a 4th-year student pursuing a Bachelors’s in Computer science studies, f
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://github.com/anshusinha872" target="blank"><img align="center" src="https://github.com/anshusinha872/raw/blob/main/1629300491735.jfif" alt="anshusinha" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/anshu-abhishek-3b8195200/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="Anshu Abhishek" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.hackerrank.com/anshusinha872" target="blank"><img align="center" src="https://img.icons8.com/windows/32/000000/hackerrank.png" alt="anshu" height="50" width="50" /></a>
+<a href="[https://www.linkedin.com/in/anshu-abhishek-3b8195200/](https://www.linkedin.com/in/sonam-kumari-a97744200/)" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="Sonam kumari" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="[https://leetcode.com/sonam25ranchi/](https://leetcode.com/sonam25ranchi/)" target="blank"><img align="center" src="[https://img.icons8.com/windows/32/000000/.png](https://icons8.com/icon/wDGo581Ea5Nf/level-up-your-coding-skills-and-quickly-land-a-job)" alt="anshu" height="50" width="50" /></a>
 </p>
 
 <hr>
