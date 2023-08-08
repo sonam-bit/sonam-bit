@@ -9,7 +9,7 @@ I’m a 4th-year student pursuing a Bachelors’s in Computer science studies, f
 <p>
 <a align= "center" href="https://github.com/anshusinha872">
 <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=sonam-bit&theme=radical">
-<img align="right" height="350" width="400" src="https://media-exp1.licdn.com/dms/image/C4E03AQHLV9wd5EPnAg/profile-displayphoto-shrink_800_800/0/1629300491735?e=1638403200&v=beta&t=b0qHygLRvp3wxzRTitA2tObtvycq9xomWJoFKX3jjzI" /> </a>
+<img align="right" height="350" width="400" src="https://avatars.githubusercontent.com/u/74105987?v=4" /> </a>
 </p>
 <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=sonam-bit&count_private=true&theme=radical&show_icons=true" />
 
